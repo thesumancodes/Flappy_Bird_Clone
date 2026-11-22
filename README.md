@@ -3,7 +3,7 @@
 A simple Flappy Bird-style game created for the Python Programming Fundamentals project.
 
 ## Requirements
-- Python 3.9 or newer
+- Python 3 or newer
 - Pygame
 
 ## Install and run
